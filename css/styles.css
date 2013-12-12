@@ -1,0 +1,14 @@
+
+#employeeDetails p {
+	margin-top: 0px;
+	margin-bottom: 8px;
+  
+}
+
+#actionList {
+	clear: both;
+}
+
+.ui-listview-filter-inset {
+    margin-top: 0;
+}
